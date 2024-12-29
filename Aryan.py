@@ -1,5 +1,5 @@
 print("hello world")
-print("aryan Raja")
+print("Aryan")
 print("bharath kumar")
 print("feature-1")
 print("feature-2")
